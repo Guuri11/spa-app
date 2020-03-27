@@ -1,6 +1,11 @@
 # spa-app
 SPA con Symfony y React.
 source: https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
+# Requisitos
+- Composer
+- Yarn
+- Symfony
+- React
 # Instalacion
 - Descargar el proyecto
 - desde el directorio root del proyecto instalar las dependencias de composer y yarn
