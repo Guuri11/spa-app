@@ -1,5 +1,5 @@
 # spa-app
-SPA con Symfony y React 
+SPA con Symfony y React.
 source: https://www.twilio.com/blog/building-a-single-page-application-with-symfony-php-and-react
 # Instalacion
 - Descargar el proyecto
